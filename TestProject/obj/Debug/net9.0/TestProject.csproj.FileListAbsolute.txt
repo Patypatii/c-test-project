@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.exe
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\bin\Debug\net9.0\TestProject.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\TestProject\obj\Debug\net9.0\ref\TestProject.dll
